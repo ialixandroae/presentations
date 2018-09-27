@@ -1,0 +1,13 @@
+{
+  "name": "dev-track",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "live-server --port=8081"
+  },
+  "private": true,
+  "dependencies": {
+    "highlightjs": "^9.10.0",
+    "reveal.js": "^3.5.0"
+  },
+  "devDependencies": {}
+}
